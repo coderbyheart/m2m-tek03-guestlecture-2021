@@ -20,9 +20,10 @@
     "CoAP",
     "Cloud",
     "Application Development",
-    "Power Consumption",
-    "ultra-low-power",
-    "Serverless"
+    "Serverless",
+    "Architecture",
+    "AWS",
+    "Azure"
   ],
   "author": "Markus Tacker <Markus.Tacker@NordicSemi.no>",
   "license": "CC-BY-NC-SA-4.0",
